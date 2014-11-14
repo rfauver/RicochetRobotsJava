@@ -1,0 +1,6 @@
+-(undo button)
+-Scoring system
+-Better move animation
+-Figure out how to export
+-Better button layout/interface
+-# of moves per game options
